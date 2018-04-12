@@ -1,0 +1,11 @@
+C:\Users\joshu\source\repos\RazorPagesMM\RazorPagesMM\bin\Debug\netcoreapp2.0\RazorPagesMM.deps.json
+C:\Users\joshu\source\repos\RazorPagesMM\RazorPagesMM\bin\Debug\netcoreapp2.0\RazorPagesMM.runtimeconfig.json
+C:\Users\joshu\source\repos\RazorPagesMM\RazorPagesMM\bin\Debug\netcoreapp2.0\RazorPagesMM.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\RazorPagesMM\RazorPagesMM\bin\Debug\netcoreapp2.0\RazorPagesMM.dll
+C:\Users\joshu\source\repos\RazorPagesMM\RazorPagesMM\bin\Debug\netcoreapp2.0\RazorPagesMM.pdb
+C:\Users\joshu\source\repos\RazorPagesMM\RazorPagesMM\obj\Debug\netcoreapp2.0\RazorPagesMM.csprojResolveAssemblyReference.cache
+C:\Users\joshu\source\repos\RazorPagesMM\RazorPagesMM\obj\Debug\netcoreapp2.0\RazorPagesMM.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\RazorPagesMM\RazorPagesMM\obj\Debug\netcoreapp2.0\RazorPagesMM.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\RazorPagesMM\RazorPagesMM\obj\Debug\netcoreapp2.0\RazorPagesMM.AssemblyInfo.cs
+C:\Users\joshu\source\repos\RazorPagesMM\RazorPagesMM\obj\Debug\netcoreapp2.0\RazorPagesMM.dll
+C:\Users\joshu\source\repos\RazorPagesMM\RazorPagesMM\obj\Debug\netcoreapp2.0\RazorPagesMM.pdb
